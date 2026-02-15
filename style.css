@@ -26,6 +26,7 @@ header{
     margin-left:250px;
     margin-top: 0px;
     margin-bottom: 0px;
+    font-size:x-small;
   } 
   .attic{
     margin:auto;
@@ -84,13 +85,13 @@ footer {
    }
    
 
-  .box img{
+  .box img,ul{
   margin-left: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
   height:150px;
   width:150px;
-  
+  font-size:x-small;
 }
 div #myaudio{
   margin: 0px;
@@ -120,14 +121,13 @@ div  blockquote{
   div{
       width:90%;
   }
-  .box img{
+  .box img,ul{
     margin-left:20px;
     margin-top: 0px;
   margin-bottom: 0px;
       height:200px;
       width:200px;
-     
-
+    font-size:small;
   }
   .box #myaudio{
     margin: 20px;
@@ -159,12 +159,14 @@ font-size:small ;
   div{
     width:90%;
 }
-.box img{
+.box img,ul{
   margin:50px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 300px;
     width:300px;
+    font-size:medium;
+
    
 
 }
@@ -199,12 +201,14 @@ font-size:medium;
   div{
     width:90%;
 }
-.box img{
+.box img,ul{
   margin:100px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 400px;
     width:400px;
+    font-size:medium;
+
    
 
 }
@@ -237,12 +241,14 @@ font-size:medium;
   div{
     width:90%;
 }
-div img{
+div img,ul{
   margin:250px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 450px;
     width:450px;
+    font-size:large;
+
    }
    .box #myaudio{
     margin: 300px;
@@ -275,12 +281,14 @@ font-size:large;
   div{
     width:90%;
 }
-div img{
+div img,ul{
   margin:250px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 600px;
     width:600px;
+    font-size:large;
+    
    }
    .box #myaudio{
     margin: 425px;
