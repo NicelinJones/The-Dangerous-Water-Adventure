@@ -242,7 +242,7 @@ font-size:medium;
     width:90%;
 }
 div img,ul{
-  margin:auto;
+  margin:200px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 450px;
@@ -251,14 +251,14 @@ div img,ul{
 
    }
    .box #myaudio{
-    margin: auto;
+    margin: 150px;
     margin-top: 0px;
     margin-bottom: 0px;
   }
   
 
 div .attic{
-margin:auto;
+margin:200px;
 margin-top: 0px;
   margin-bottom: 0px;
 height:550px;
@@ -282,7 +282,7 @@ font-size:large;
     width:90%;
 }
 div img,ul{
-  margin:auto;
+  margin:300px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 600px;
@@ -291,14 +291,14 @@ div img,ul{
     
    }
    .box #myaudio{
-    margin: auto;
+    margin: 250px;
     margin-top: 0px;
     margin-bottom: 0px;
   }
   
 
 div .attic{
-margin:auto;
+margin:300px;
 margin-top: 0px;
   margin-bottom: 0px;
 height:700px;
